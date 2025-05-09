@@ -27,7 +27,7 @@ To run this script **locally** (Tested on Macbook M3), you’ll need:
 Follow these steps to set up your environment:
 
 ### 1. Install Miniconda or Anaconda
-If not already installed, download [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for macOS (Apple Silicon).
+If not already installed, download [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html) for macOS (Apple Silicon).
 
 ### 2. Create a Conda environment
 ```bash
