@@ -51,8 +51,7 @@ pip install torch torchvision torchaudio
 ### 4. Install other dependencies
 
 ```bash
-pip install transformers
-pip install huggingface_hub
+pip install -r requirements.txt
 ```
 
 Make sure to login to huggingface, accept all agreements and create your login token.
