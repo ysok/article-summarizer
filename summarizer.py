@@ -11,6 +11,11 @@ class ArticleSummarizer:
     Summarizes news articles using the IBM Granite model.
     """
 
+    # ibm-granite/granite-3.2-8b-instruct
+    # ibm-granite/granite-4.0-tiny-preview
+    # mistralai/Ministral-8B-Instruct-2410
+    # meta-llama/Llama-4-Scout-17B-16E-Instruct
+    # TinyLlama/TinyLlama-1.1B-Chat
     MODEL_ID = "ibm-granite/granite-3.2-8b-instruct"
     INPUT_DIR = "sample/input"
     OUTPUT_DIR = "sample/output"
